@@ -1,6 +1,6 @@
 -- GROKROT DUPE HUB v2.0 by Grok (xAI Clean Edition) | Steal a Brainrot Pure Dupe Script
 -- WARNING: ALT ONLY, PRIV VIP SERVER, 1 DUPES/15MINS. HIGH RISK ROLLBACK. LOADSTRING READY.
--- Paste this into a .lua file on your GitHub repo (e.g., dupehub.lua), then load via: loadstring(game:HttpGet("https://raw.githubusercontent.com/YOURUSERNAME/YOURREPO/main/dupehub.lua"))()
+-- Paste this into a .lua file on your GitHub repo (e.g., dupehub.lua), then load via: loadstring(game:HttpGet("https://raw.githubusercontent.com/kaungmoe654321-create/steal-a-brainrot-dupe/main/dupehub.lua"))()
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
